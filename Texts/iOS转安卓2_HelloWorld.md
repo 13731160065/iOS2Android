@@ -48,6 +48,7 @@ Layout Name就是xml布局文件名。说到这，我还是来说一下安卓里
 ![Activity名字](https://github.com/13731160065/iOS2Android/raw/master/Images/AS2/Activity名字.png)
 
 好的，就是这个坑爹的页面，第一次创建项目他会给你下载一个东西，这个东西是从google.com下的，可想而知，不翻墙这里
-就一直是这样，当时坑的我好惨，就算翻墙还是要下好久
+就一直是这样，当时坑的我好惨，就算翻墙还是要下好久，可以参考一下这个，[AS创建项目卡住](http://www.jianshu.com/p/dc1cec5fb5bf)，然而这个考文件方法是win版的，没发现mac版的，建议不会折腾的小伙伴
+还是乖乖翻墙吧，翻墙后创建项目，在这个页面等着就好了，要等好久的，我先睡了😪
 
 ![等待](https://github.com/13731160065/iOS2Android/raw/master/Images/AS2/等待.png)
