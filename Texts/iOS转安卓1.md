@@ -57,9 +57,42 @@ mac下载dmg文件就行，win的小伙伴，肯定也知道怎么下载就不�
 
 ![欢迎](https://github.com/13731160065/iOS2Android/raw/master/Images/初始化2.png)
 
+接下来是默认安装还是自定义安装，身为一个**开发者**我当然是选择自定义安装了，默认安装我怎么知道你偷偷给我安
+装了什么😐
 
+![默认安装](https://github.com/13731160065/iOS2Android/raw/master/Images/默认安装.png)
 
+然后是选择风格，我这么正直的人，当然选择明亮的风格～
 
+![选风格](https://github.com/13731160065/iOS2Android/raw/master/Images/选风格.png)
 
+接下来是选要下载的东西，默认必须选的是Android SDK，这是当然了，600M，还有一个Android SDk Platform
+不知道是什么东西，也下载下来吧，翻译说是“为不同Android平台创建应用程序的SDK组件”，Performance默认是打勾
+的也不知道什么东西，反正不大，就选上吧，最后一个可以不用选，一看就知道，安卓模拟器，据说AS的安卓模拟器和xcode
+的iOS模拟器天差地别，性能极差，超级难用，他们安卓都用真机调试的，而且还得占用700M内存，果断不装，后边用真机
+调试就可以。这里我之前装过AS，所以下边有个警告一样的东西，他说的是，已存在ASSDk，已存在的部分她不会装，只会
+帮我装缺少的部分，so，这里我应该可以省去很多下载的时间。提示一下，这里应该是不需要翻墙的，但如果遇到下载不动
+的情况，也可以翻墙试试，我记得我是第一次创建工程的时候，会出现一个进度条一直呆在那，后来查了一下才知道，需要
+翻墙下东西，好，点击继续。
 
+![预装SDK](https://github.com/13731160065/iOS2Android/raw/master/Images/ASSDK.png)
+
+接下来这一步，有点像虚拟机选内存似的，具体意思应该也就是AS最大能用多少内存，直接下一步。
+
+![选内存](https://github.com/13731160065/iOS2Android/raw/master/Images/选内存.png)
+
+最后就是看一眼你自己的配置，我很自信的直接点“Finish”
+
+![初始化结束](https://github.com/13731160065/iOS2Android/raw/master/Images/初始化结束.png)
+
+接下来AS会自动下载SDK，这里有个按钮叫“Show Detail”，点开以后会有下载的详情，你可以看到他在下载什么，以缓解
+你焦急等待的心情，或者你也可以去泡杯咖啡打盘王者洗洗澡啥的。噢对了，还是不要洗澡了，期间她会找你要管理员权限的，
+记得看着点。下载完成后点击“Finish”。安装完成。
+
+![下载SDK](https://github.com/13731160065/iOS2Android/raw/master/Images/下载SDK2.png)
+
+完成后会自动打开创建项目页面，我们肯定没创建过项目咯，选择“Start a new Android Studio project“即可
+创建新项目，关于创建项目，我们下期再说，有问题记得看下期噢。
+
+![创建项目](https://github.com/13731160065/iOS2Android/raw/master/Images/创建项目.png)
 
