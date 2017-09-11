@@ -1,7 +1,8 @@
 先放个董香小姐姐镇一镇～
 ![董香](https://github.com/13731160065/iOS2Android/raw/master/Images/dx.jpg)
 
-#前言#
+前言
+==========================
 
 本来打算转后台的，学了半截c++，学了半截unity，
 突然发现，其实学系一门新技术，主要要学的是框架，
@@ -15,7 +16,8 @@
 
 扯的有点远了，总的来说就是，不要一味的去扣语法，直接学框架做东西来的更快一些，之后慢慢再补基础。
 
-#下载Android Studio#
+下载Android Studio
+==========================
 
 第一步，当然是下载AS咯，Eclipse虽然也能编写，但太过时了吧，现在做安卓的都用的AS，所以直接用AS吧，
 对于我们这种新手来说应该还算友好，AS应该有更多针对与安卓的方便的东西。
@@ -23,11 +25,24 @@
 首先就是下载，我是在这下载的：
 
 [Android Studio中文社区](http://www.android-studio.org)
+
 [Mac AS dmg 下载地址](https://dl.google.com/dl/android/studio/install/2.3.3.0/android-studio-ide-162.4069837-mac.dmg)
 
 我们是iOS转安卓嘛，当然都是MAC电脑，其他小伙伴转安卓的话，赶紧买个MAC吧，哈哈哈哈哈哈哈哈哈。
 
 mac下载dmg文件就行，win的小伙伴，肯定也知道怎么下载就不多说了，形象的说，还是来个图吧。
 
-![AS社区dmg]()
+下载AS
+
+![AS社区dmg](https://github.com/13731160065/iOS2Android/raw/master/Images/as中文社区dmg.png)
+
+安装AS
+
+![安装AS](https://github.com/13731160065/iOS2Android/raw/master/Images/安装as.png)
+
+安装步骤，我也来讲清楚，安装AS要做的一个准备就是，*要翻墙*
+
+
+
+
 
