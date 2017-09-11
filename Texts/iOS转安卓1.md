@@ -50,7 +50,14 @@ mac下载dmg文件就行，win的小伙伴，肯定也知道怎么下载就不�
 而且我有个习惯是，基本系统怎么给设置，我就怎么用，这样就算用没有设置的电脑我也一样习惯，看个人习惯了，
 这里没有设置，我们选第三个，I do not ....
 
-![没设置]
+![没设置](https://github.com/13731160065/iOS2Android/raw/master/Images/初始化1.png)
+
+点继续以后，就是Welcome，这个页面说的就是怎么怎么好，能用什么平台，我也没认真看英文，
+看下边的几个图片觉得估计是这么个意思，直接next。
+
+![欢迎](https://github.com/13731160065/iOS2Android/raw/master/Images/初始化2.png)
+
+
 
 
 
